@@ -5,3 +5,5 @@
 ![](./screenshot.png)
 
 ## Live site URL
+
+https://sanjayvjacob.github.io/digital-clock-js/
