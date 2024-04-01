@@ -1,0 +1,21 @@
+
+body{
+  background-color: brown;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  align-items: center;
+}
+
+.clock{
+  color: #fff;
+  font-size: 4rem;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.seconds{
+  min-width: 5.5rem;
+}
